@@ -13,8 +13,8 @@ Office Hours: TBD
 
 ⚠️ You're expected to read the [course syllabus](https://github.com/GPGN-268/GPGN268-CORE/blob/main/docs/syllabus-fall2023.md) thoroughly.  
 📚 All course material will be pushed to [GPGN268-CORE](https://github.com/GPGN-268/GPGN268-CORE).  
+✏️ We will use [HackMD](https://hackmd.io/@villasboas/GPGN268/edit) for collaborative note-taking during class.   
 💬 Our main communication channel will be [GitHub Discussions](https://github.com/orgs/GPGN-268/discussions). There, you will find a private forum that is only available for your, your instructors, and classmates. That is *your* space for asking questions, discussing with your peers, exchanging resources and keeping up to date on course announcements.  
-
 
 
 
