@@ -9,7 +9,8 @@ Office Hours: TBD
 
 Teaching Assistant: Seunghoo Kim  
 Email: seunghookim@mines.edu  
-Office Hours: TBD  
+Office Hours: Mon 3-4pm, Wed 10-11am, Fri as needed on Zoom
+Office Hours Location: Geophysics reading room  
 
 ⚠️ You're expected to read the [course syllabus](https://github.com/GPGN-268/GPGN268-CORE/blob/main/docs/syllabus-fall2023.md) thoroughly.  
 📚 All course material will be pushed to [GPGN268-CORE](https://github.com/GPGN-268/GPGN268-CORE).  
