@@ -22,7 +22,7 @@ You will find below a tentative schedule, which will be updated as we move throu
 
 | **WEEK** | **TOPIC**                        | **TUESDAY**                                 | **THURSDAY**                                       | **ASSESSMENT**           |
 | -------- | -------------------------------- | ------------------------------------------- | -------------------------------------------------- | ------------------------ |
-| Week 1   | Introduction                     | Class intro                                 | Intro to command line                              | [Onboarding Checklist](https://github.com/GPGN-268/GPGN268-CORE/blob/main/assignments/onboarding.md) |
+| Week 1   | Introduction                     | Class intro                                 | [Intro to command line](https://github.com/GPGN-268/GPGN268-CORE/blob/main/lecture-notes/L02-intro-shell.md)                              | [Onboarding Checklist](https://github.com/GPGN-268/GPGN268-CORE/blob/main/assignments/onboarding.md) |
 | Week 2   | Tools for reproducible workflows | Command line II                             | Command line III & text editors                    | SA01-VIM                 |
 | Week 3   | Tools for reproducible workflows | Version control with Git                    | Remotes in Github                                  | SA02-GitHub              |
 | Week 4   | Tools for reproducible workflows | Documentation and Github practicum          | Managing Python Environments & Intro to JupyterLab | TBD                      |
