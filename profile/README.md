@@ -5,7 +5,7 @@
 Instructor: Bia Villas Boas (she/her)   
 Email: villasboas@mines.edu  
 Office Location: GC 255   
-Office Hours: TBD  
+Office Hours: Tue 11-noon or [by appointment](https://www.zdnet.com/article/chatgpt-is-not-particularly-innovative-and-nothing-revolutionary-says-metas-chief-ai-scientist/)  
 
 Teaching Assistant: Seunghoo Kim  
 Email: seunghookim@mines.edu  
