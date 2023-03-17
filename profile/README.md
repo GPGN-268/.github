@@ -34,8 +34,8 @@ You will find below a tentative schedule, which will be updated as we move throu
 | Week 9   | Data Story - Global Warming      | Well Log practicum                               | [Intro to Cartopy](https://github.com/GPGN-268/GPGN268-CORE/blob/main/lecture-notes/L17-cartopy.ipynb)                                     | Final Project Milestone I |
 | Week 10  | Data Story - Global Warming      | [Intro to Xarray](https://github.com/GPGN-268/GPGN268-CORE/blob/main/lecture-notes/L18-xarray.ipynb)                    | Global Warming practicum                    | [Data Story 02](https://github.com/GPGN-268/GPGN268-CORE/blob/main/assignments/DS02-global-warming.ipynb)  
 | Week 11  | ❌                               | 😎 Spring Break                             | 😎  Spring Break                                   | No homework                      |                    |
-| Week 12  | GIS in Python        |       GIS in Python                           | Intro to DAS/hdf5                               | GIS assignment                      |
-| Week 13  | Data Story - Seismology          | Seismology                                  | Seismology practicum                               | Data Story 03                      |
+| Week 12  | HDF5        |        Global Warming practicum                           | Intro to DAS/hdf5                               | Data Story 03                       |
+| Week 13  | Data Story - Seismology          | Seismology                                  | Seismology practicum                               | Work on Final Project                     |
 | Week 14  | Final project lab                | Sharing, publishing & archiving             | Final project sprint                               | Final Project Milestone II                      |
 | Week 15  | Final project presentations      | Final project presentations                 | Final project presentations                        | TBD                      |
 | Week 16  | Final project presentations      | Course wrap up                              | 📚 Finals Review                                   | Final project Due        |
