@@ -38,4 +38,4 @@ You will find below a tentative schedule, which will be updated as we move throu
 | Week 13  | Data Story - Seismology          | Seismology                                  | Seismology practicum                               | Data Story 3                     |
 | Week 14  | Final project lab                | Sharing, publishing & archiving             | Final project sprint                               | Final Project Milestone II                      |
 | Week 15  | Final project presentations      | Final project presentations                 | Final project presentations                        | TBD                      |
-| Week 16  | Final project presentations      | Course wrap up                              | 📚 Finals Review                                   | Final project Due        |
+| Week 16  | Final project presentations      | Course wrap up                              | 📚 Finals Review                                   | [Final project Due](https://github.com/GPGN-268/GPGN268-CORE/blob/main/assignments/FP00-guideliness.md)        |
