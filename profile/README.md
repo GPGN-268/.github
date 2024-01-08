@@ -5,12 +5,12 @@
 Instructor: Bia Villas Boas (she/her)   
 Email: villasboas@mines.edu  
 Office Location: GC 255   
-Office Hours: Tue 11-noon or [by appointment](https://outlook.office.com/bookwithme/user/12dfdf8a370d4da38883619eb1ea9ff0@mines.edu/meetingtype/vVN_CGb6SES1g6k53wy79A2?anonymous)  
+Office Hours: TBD or [by appointment](https://outlook.office.com/bookwithme/user/12dfdf8a370d4da38883619eb1ea9ff0@mines.edu/meetingtype/vVN_CGb6SES1g6k53wy79A2?anonymous)  
 
-Teaching Assistant: Seunghoo Kim  
-Email: seunghookim@mines.edu  
-Office Hours: Mon 3-4pm, Wed 10-11am, Fri as needed on Zoom  
-Office Hours Location: Geophysics reading room  
+Teaching Assistant: Jordan Pettyjohn 
+Email: jpettyjohn@mines.edu 
+Office Hours: TBD 
+Office Hours Location: TBD
 
 ⚠️ You're expected to read the [course syllabus](https://github.com/GPGN-268/GPGN268-CORE/blob/main/docs/syllabus-fall2023.md) thoroughly.  
 📚 All course material will be pushed to [GPGN268-CORE](https://github.com/GPGN-268/GPGN268-CORE).  
